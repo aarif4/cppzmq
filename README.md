@@ -1,2 +1,2 @@
-# cppzmq
-My C++ ZMQ Wrapper
+# ZeroMQ+
+My ZMQ Wrapper for multiple languages.
