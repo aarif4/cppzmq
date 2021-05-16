@@ -1,2 +1,2 @@
 # ZeroMQ+
-My ZMQ Wrapper for multiple languages.
+My ZMQ Wrapper for multiple languages. [INCOMPLETE]
