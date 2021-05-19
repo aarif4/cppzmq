@@ -1,3 +1,17 @@
+/*
+SocketObject class:
+- zmq::context  context (singleton format)
+- zmq::socket_t socket
+- std::string   endpoint
+- abstract functions
+  - setsockopt()
+  - send()
+  - receive()
+  - poll()
+- threading
+  - void operator()(...)
+*/
+
 #ifndef _SOCKET_
 #define _SOCKET_
 #include <iostream>
